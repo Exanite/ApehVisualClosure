@@ -1,0 +1,13 @@
+{
+"companyName": "Exanite",
+"productName": "ProjectVerdun",
+"dataUrl": "ProjectVerdun_WebGL_v1.0.0-Release.data.unityweb",
+"wasmCodeUrl": "ProjectVerdun_WebGL_v1.0.0-Release.wasm.code.unityweb",
+"wasmFrameworkUrl": "ProjectVerdun_WebGL_v1.0.0-Release.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
